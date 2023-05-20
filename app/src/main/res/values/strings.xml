@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AjejaManage</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit</string>
+    <string name="title_activity_creat_board">CreatBoardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="app_bar_scrolling_view_behavior" translatable="false">androidx.appcompat.widget</string>
+    <string name="title_activity_task">TaskActivity</string>
+</resources>

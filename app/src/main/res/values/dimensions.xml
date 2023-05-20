@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="my_profile_scree_content_marginStarteEnd">16dp</dimen>
+    <dimen name="my_profile_scree_content_marginTopBottom">10dp</dimen>
+    <dimen name="my_profile_scree_content_padding">16dp</dimen>
+    <dimen name="my_profile_user_image_size">100dp</dimen>
+    <dimen name="my_profile_name_til_marginTop">25dp</dimen>
+    <dimen name="my_profile_email_marginTop">20dp</dimen>
+    <dimen name="my_profile_mobile_marginTop">20dp</dimen>
+    <dimen name="my_profile_btn_update_marginTop">30dp</dimen>
+
+
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854479646060",
+    "project_id": "ajejamanage-27dff",
+    "storage_bucket": "ajejamanage-27dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854479646060:android:456fb4da2f387dbde31749",
+        "android_client_info": {
+          "package_name": "com.example.ajejamanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854479646060-86gn7mka9h9m3in8c90e71amk5j7rv9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj3aiTCeLcQqIyHjYznTr76LH2gyR8vE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854479646060-86gn7mka9h9m3in8c90e71amk5j7rv9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

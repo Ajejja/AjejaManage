@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:theme="@style/AjejaManage.AppBarOverLay">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarMainAct"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/button_rounded_color_state"
+            app:popupTheme="@style/AjejaManage.PopupOverlay">
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="AJEJA MANAGE"
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="50dp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="20dp">
+            </TextView>
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+    <include layout="@layout/main_content"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn_create_new_board"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="20dp"
+        app:srcCompat="@drawable/ic_vector_add"
+        android:backgroundTint="#1974C3"/>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
