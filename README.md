@@ -36,7 +36,7 @@ red is urgent ect...
 ![Screenshot_20230520_234515](https://github.com/Ajejja/AjejaManage/assets/122018379/7124ab97-1245-4f7a-8e9a-1d493be36487)
 ![Screenshot_20230520_234524](https://github.com/Ajejja/AjejaManage/assets/122018379/ca8c07f5-39cc-4644-85b0-e39efd56fa04)
 as well the user can assign new members to this card from the project members 
-also the user can choose a due date for this can and update the card
+also the user can choose a due date and update the card
 ![Screenshot_20230520_234536](https://github.com/Ajejja/AjejaManage/assets/122018379/e9511db2-fe04-4dc5-80ea-49806500c1cd)
 
 
